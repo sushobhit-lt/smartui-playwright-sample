@@ -1,0 +1,602 @@
+[
+    {
+        "name": "1",
+        "url": "https://openai.com"
+    },
+    {
+        "name": "2",
+        "url": "https://www.deepmind.com"
+    },
+    {
+        "name": "3",
+        "url": "https://www.anthropic.com"
+    },
+    {
+        "name": "4",
+        "url": "https://x.ai"
+    },
+    {
+        "name": "5",
+        "url": "https://www.nvidia.com/en-us/ai/"
+    },
+    {
+        "name": "6",
+        "url": "https://www.microsoft.com/en-us/ai"
+    },
+    {
+        "name": "7",
+        "url": "https://ai.google"
+    },
+    {
+        "name": "8",
+        "url": "https://www.ibm.com/artificial-intelligence"
+    },
+    {
+        "name": "9",
+        "url": "https://huggingface.co"
+    },
+    {
+        "name": "10",
+        "url": "https://www.tensorflow.org"
+    },
+    {
+        "name": "11",
+        "url": "https://pytorch.org"
+    },
+    {
+        "name": "12",
+        "url": "https://www.cohere.ai"
+    },
+    {
+        "name": "13",
+        "url": "https://stability.ai"
+    },
+    {
+        "name": "14",
+        "url": "https://www.databricks.com/solutions/artificial-intelligence"
+    },
+    {
+        "name": "15",
+        "url": "https://www.synthesia.io"
+    },
+    {
+        "name": "16",
+        "url": "https://www.runwayml.com"
+    },
+    {
+        "name": "17",
+        "url": "https://www.scale.ai"
+    },
+    {
+        "name": "18",
+        "url": "https://www.ai21.com"
+    },
+    {
+        "name": "19",
+        "url": "https://www.perplexity.ai"
+    },
+    {
+        "name": "20",
+        "url": "https://mistral.ai"
+    },
+    {
+        "name": "21",
+        "url": "https://www.elementai.com"
+    },
+    {
+        "name": "22",
+        "url": "https://www.arxiv.org/list/cs.AI/recent"
+    },
+    {
+        "name": "23",
+        "url": "https://www.salesforce.com/products/einstein/overview/"
+    },
+    {
+        "name": "24",
+        "url": "https://www.oracle.com/artificial-intelligence/"
+    },
+    {
+        "name": "25",
+        "url": "https://www.amazon.com/b?node=21289116011"
+    },
+    {
+        "name": "26",
+        "url": "https://www.palantir.com/solutions/ai/"
+    },
+    {
+        "name": "27",
+        "url": "https://www.c3.ai"
+    },
+    {
+        "name": "28",
+        "url": "https://www.vectara.com"
+    },
+    {
+        "name": "29",
+        "url": "https://www.grok.ai"
+    },
+    {
+        "name": "30",
+        "url": "https://www.clarifai.com"
+    },
+    {
+        "name": "31",
+        "url": "https://www.datarobot.com"
+    },
+    {
+        "name": "32",
+        "url": "https://www.h2o.ai"
+    },
+    {
+        "name": "33",
+        "url": "https://www.sas.com/en_us/solutions/ai.html"
+    },
+    {
+        "name": "34",
+        "url": "https://www.mathworks.com/solutions/artificial-intelligence.html"
+    },
+    {
+        "name": "35",
+        "url": "https://www.rapidminer.com"
+    },
+    {
+        "name": "36",
+        "url": "https://www.knime.com"
+    },
+    {
+        "name": "37",
+        "url": "https://www.tibco.com/solutions/artificial-intelligence"
+    },
+    {
+        "name": "38",
+        "url": "https://www.alteryx.com/solutions/ai"
+    },
+    {
+        "name": "39",
+        "url": "https://www.lumen.com/en-us/solutions/artificial-intelligence.html"
+    },
+    {
+        "name": "40",
+        "url": "https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html"
+    },
+    {
+        "name": "41",
+        "url": "https://www.xilinx.com/applications/ai-inference.html"
+    },
+    {
+        "name": "42",
+        "url": "https://www.qualcomm.com/products/artificial-intelligence"
+    },
+    {
+        "name": "43",
+        "url": "https://www.arm.com/solutions/artificial-intelligence"
+    },
+    {
+        "name": "44",
+        "url": "https://www.graphcore.ai"
+    },
+    {
+        "name": "45",
+        "url": "https://www.cerebras.net"
+    },
+    {
+        "name": "46",
+        "url": "https://www.sambanova.ai"
+    },
+    {
+        "name": "47",
+        "url": "https://www.grok.com"
+    },
+    {
+        "name": "48",
+        "url": "https://www.neuralink.com"
+    },
+    {
+        "name": "49",
+        "url": "https://www.openml.org"
+    },
+    {
+        "name": "50",
+        "url": "https://www.ai.google/discover/our-research/"
+    },
+    {
+        "name": "51",
+        "url": "https://www.copy.ai"
+    },
+    {
+        "name": "52",
+        "url": "https://www.jasper.ai"
+    },
+    {
+        "name": "53",
+        "url": "https://www.igenius.ai"
+    },
+    {
+        "name": "54",
+        "url": "https://www.evolution.ai"
+    },
+    {
+        "name": "55",
+        "url": "https://www.v7labs.com"
+    },
+    {
+        "name": "56",
+        "url": "https://www.soundhound.com"
+    },
+    {
+        "name": "57",
+        "url": "https://www.affectiva.com"
+    },
+    {
+        "name": "58",
+        "url": "https://www.drone.ai"
+    },
+    {
+        "name": "59",
+        "url": "https://www.tractable.ai"
+    },
+    {
+        "name": "60",
+        "url": "https://www.onfido.com"
+    },
+    {
+        "name": "61",
+        "url": "https://www.darktrace.com"
+    },
+    {
+        "name": "62",
+        "url": "https://www.sentient.ai"
+    },
+    {
+        "name": "63",
+        "url": "https://www.tempus.com"
+    },
+    {
+        "name": "64",
+        "url": "https://www.butterfly.ai"
+    },
+    {
+        "name": "65",
+        "url": "https://www.dataroot.ai"
+    },
+    {
+        "name": "66",
+        "url": "https://www.prowler.io"
+    },
+    {
+        "name": "67",
+        "url": "https://www.blueprism.com"
+    },
+    {
+        "name": "68",
+        "url": "https://www.uipath.com"
+    },
+    {
+        "name": "69",
+        "url": "https://www.automationanywhere.com"
+    },
+    {
+        "name": "70",
+        "url": "https://www.appen.com"
+    },
+    {
+        "name": "71",
+        "url": "https://www.crowdai.com"
+    },
+    {
+        "name": "72",
+        "url": "https://www.lionbridge.ai"
+    },
+    {
+        "name": "73",
+        "url": "https://www.zoox.com"
+    },
+    {
+        "name": "74",
+        "url": "https://www.aurora.tech"
+    },
+    {
+        "name": "75",
+        "url": "https://www.nuro.ai"
+    },
+    {
+        "name": "76",
+        "url": "https://www.pony.ai"
+    },
+    {
+        "name": "77",
+        "url": "https://www.woven.ai"
+    },
+    {
+        "name": "78",
+        "url": "https://www.mayfield.com"
+    },
+    {
+        "name": "79",
+        "url": "https://www.greylock.com"
+    },
+    {
+        "name": "80",
+        "url": "https://www.sequoiacap.com"
+    },
+    {
+        "name": "81",
+        "url": "https://www.khoslaventures.com"
+    },
+    {
+        "name": "82",
+        "url": "https://www.accel.com"
+    },
+    {
+        "name": "83",
+        "url": "https://www.a16z.com"
+    },
+    {
+        "name": "84",
+        "url": "https://www.lightspeed.com"
+    },
+    {
+        "name": "85",
+        "url": "https://www.benchmark.com"
+    },
+    {
+        "name": "86",
+        "url": "https://www.foundersfund.com"
+    },
+    {
+        "name": "87",
+        "url": "https://www.8vc.com"
+    },
+    {
+        "name": "88",
+        "url": "https://www.sparkcapital.com"
+    },
+    {
+        "name": "89",
+        "url": "https://www.gv.com"
+    },
+    {
+        "name": "90",
+        "url": "https://www.bessemer.com"
+    },
+    {
+        "name": "91",
+        "url": "https://www.insightpartners.com"
+    },
+    {
+        "name": "92",
+        "url": "https://www.tigerglobal.com"
+    },
+    {
+        "name": "93",
+        "url": "https://www.neural.ai"
+    },
+    {
+        "name": "94",
+        "url": "https://www.cognitive.ai"
+    },
+    {
+        "name": "95",
+        "url": "https://www.brightmachines.com"
+    },
+    {
+        "name": "96",
+        "url": "https://www.vicarious.com"
+    },
+    {
+        "name": "97",
+        "url": "https://www.rekognition.ai"
+    },
+    {
+        "name": "98",
+        "url": "https://www.aisera.com"
+    },
+    {
+        "name": "99",
+        "url": "https://www.drift.com"
+    },
+    {
+        "name": "100",
+        "url": "https://www.zest.ai"
+    },
+    {
+        "name": "101",
+        "url": "https://www.abacus.ai"
+    },
+    {
+        "name": "102",
+        "url": "https://www.adesa.ai"
+    },
+    {
+        "name": "103",
+        "url": "https://www.airobotics.com"
+    },
+    {
+        "name": "104",
+        "url": "https://www.aiscout.net"
+    },
+    {
+        "name": "105",
+        "url": "https://www.aktana.com"
+    },
+    {
+        "name": "106",
+        "url": "https://www.allganize.ai"
+    },
+    {
+        "name": "107",
+        "url": "https://www.ambiq.com"
+    },
+    {
+        "name": "108",
+        "url": "https://www.anyscale.com"
+    },
+    {
+        "name": "109",
+        "url": "https://www.aperio.ai"
+    },
+    {
+        "name": "110",
+        "url": "https://www.assembly.ai"
+    },
+    {
+        "name": "111",
+        "url": "https://www.attention.ai"
+    },
+    {
+        "name": "112",
+        "url": "https://www.bearflagrobotics.com"
+    },
+    {
+        "name": "113",
+        "url": "https://www.bons.ai"
+    },
+    {
+        "name": "114",
+        "url": "https://www.botpress.com"
+    },
+    {
+        "name": "115",
+        "url": "https://www.braincorp.ai"
+    },
+    {
+        "name": "116",
+        "url": "https://www.casetext.com"
+    },
+    {
+        "name": "117",
+        "url": "https://www.celonis.com"
+    },
+    {
+        "name": "118",
+        "url": "https://www.cleareye.ai"
+    },
+    {
+        "name": "119",
+        "url": "https://www.cognitivescale.com"
+    },
+    {
+        "name": "120",
+        "url": "https://www.cohere.io"
+    },
+    {
+        "name": "121",
+        "url": "https://www.comma.ai"
+    },
+    {
+        "name": "122",
+        "url": "https://www.cruise.ai"
+    },
+    {
+        "name": "123",
+        "url": "https://www.cue.ai"
+    },
+    {
+        "name": "124",
+        "url": "https://www.cycleworks.ai"
+    },
+    {
+        "name": "125",
+        "url": "https://www.daedalean.ai"
+    },
+    {
+        "name": "126",
+        "url": "https://www.dataiku.com"
+    },
+    {
+        "name": "127",
+        "url": "https://www.dataminr.com"
+    },
+    {
+        "name": "128",
+        "url": "https://www.dialpad.com"
+    },
+    {
+        "name": "129",
+        "url": "https://www.dustyrobotics.com"
+    },
+    {
+        "name": "130",
+        "url": "https://www.embark.ai"
+    },
+    {
+        "name": "131",
+        "url": "https://www.exscientia.ai"
+    },
+    {
+        "name": "132",
+        "url": "https://www.fairmatic.com"
+    },
+    {
+        "name": "133",
+        "url": "https://www.figure.ai"
+    },
+    {
+        "name": "134",
+        "url": "https://www.flock.ai"
+    },
+    {
+        "name": "135",
+        "url": "https://www.flyt.ai"
+    },
+    {
+        "name": "136",
+        "url": "https://www.freenome.com"
+    },
+    {
+        "name": "137",
+        "url": "https://www.gretel.ai"
+    },
+    {
+        "name": "138",
+        "url": "https://www.hailo.ai"
+    },
+    {
+        "name": "139",
+        "url": "https://www.heartflow.com"
+    },
+    {
+        "name": "140",
+        "url": "https://www.huma.ai"
+    },
+    {
+        "name": "141",
+        "url": "https://www.inworld.ai"
+    },
+    {
+        "name": "142",
+        "url": "https://www.kensho.com"
+    },
+    {
+        "name": "143",
+        "url": "https://www.kodakalaris.com"
+    },
+    {
+        "name": "144",
+        "url": "https://www.lilt.com"
+    },
+    {
+        "name": "145",
+        "url": "https://www.luminoso.com"
+    },
+    {
+        "name": "146",
+        "url": "https://www.machinetools.ai"
+    },
+    {
+        "name": "147",
+        "url": "https://www.mighty.ai"
+    },
+    {
+        "name": "148",
+        "url": "https://www.mixpanel.com"
+    },
+    {
+        "name": "149",
+        "url": "https://www.moveworks.ai"
+    },
+    {
+        "name": "150",
+        "url": "https://www.mythic.ai"
+    }
+]

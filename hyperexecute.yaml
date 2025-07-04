@@ -1,0 +1,28 @@
+---
+version: "0.1"
+globalTimeout: 90
+testSuiteTimeout: 90
+testSuiteStep: 90
+runson: win
+autosplit: true
+retryOnFailure: true
+maxRetries: 1
+concurrency: 100
+env:
+    LT_SDK_DEBUG: "false"
+    PROJECT_NAME: HYE-Scheduler-Job
+pre:
+  - npm install
+  - npx playwright install
+  - cd sdk
+  - ls -la
+cacheKey: '{{ checksum "package-lock.json" }}'
+cacheDirectories:
+  - node_modules
+testDiscovery:
+  type: raw
+  mode: static
+  command: ls sdk/playwright_script*
+testRunnerCommand: npx smartui exec node $test --buildName ${JOB_ID}
+
+jobLabel: [playwright-VanillaJS, win, autosplit] 

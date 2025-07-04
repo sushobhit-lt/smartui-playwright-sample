@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@lambdatest/playwright-driver": "^1.0.6",
+    "@lambdatest/smartui-cli": "^4.1.16",
+    "playwright": "^1.53.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.2"
+  }
+}

@@ -1,0 +1,11 @@
+logs/
+nucleus.log
+snooper.log
+hyperexecute-cli.log
+result.json
+hyperexecute
+.hyperexecute/*
+node_modules/
+sdk/node_modules
+sdk/.smartui.log
+sdk/node_modules/.bin
